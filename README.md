@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ayşe Nur Hacısoftaoğlu</h1>
+<h1 align="center">Hi 👋, I'm Ayşe</h1>
 <h3 align="center">Mathematical Engineering student from Turkey</h3>
 
 - 🌱 I’m currently learning **Python**
